@@ -1,4 +1,4 @@
-# LGMVIP-DataScience-Task-Number2
+# LGMVIP-DataScience-Task-Number 1
 Task 1:-
 Beginner Level Task No 4
 Image to Pencil Sketch with Python:
